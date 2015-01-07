@@ -1,4 +1,4 @@
-## c++の実行ファイルをruby, python, zshで動かしてみた
+## c++の実行ファイルをruby, python, shellで動かしてみた
 
 ### Hello Worldをprint (C++)
 ### 10回ループ (other language)
